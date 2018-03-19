@@ -23,7 +23,7 @@ public class App {
 
     /*
      * Following methods are not visible if maruti is a vehicle... maruti.getModel();
-     * maruti.getFuelType(); maruti.getColor(); maruti.getNoOfGears();
+     * maruti.getFuelType(); maruti.getColor();     maruti.getNoOfGears();
      */
   }
 }
