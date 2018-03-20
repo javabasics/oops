@@ -1,5 +1,5 @@
 package basics.java.core.inheritance.polymorph;
-
+// Child Class inheriting Tecaher Class
 
 public class App extends Teacher {
 
